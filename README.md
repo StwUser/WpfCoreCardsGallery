@@ -1,0 +1,2 @@
+# WpfCoreCardsGallery
+Wpf, MVVM
